@@ -6,6 +6,10 @@ to completeness or accuracy and it contains some references to files that are
 not part of the distribution.
 ================================================================================
 
+2024-06-03  Joseph Wright  <Joseph.Wright@latex-project.org>
+	* ltkeys.dtx:
+	Correct addition to unused option list with unknown key property (gh/1183)
+
 2024-06-19  David Carlisle  <David.Carlisle@latex-project.org>
 
 	* fontdef.dtx:
